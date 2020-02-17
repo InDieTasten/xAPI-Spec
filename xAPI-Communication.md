@@ -102,6 +102,7 @@
 		*	[Appendix C: Cross Domain Request Example](./xAPI-Communication.md#Appendix3C)  
 
 <a name="partthree" />
+
 # Part Three: Data Processing, Validation, and Security 
 
 This third part details the more technical side of the Experience API, dealing with how Statements are transferred between 
